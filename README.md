@@ -4,7 +4,7 @@
   <img src="./nix-ng.png" width="384">
 </p>
 
-NixNG is a, as of now, GNU/Linux distribution, which may be a considered a late
+NixNG is a, as of now, GNU/Linux distribution, which may be considered a late
 sibling to NixOS. It shares many of its designs and utilizes the Nix package
 manager at its core. The defining features of NixNG are:
 - A lighter and simpler design, due to the omission of systemd
